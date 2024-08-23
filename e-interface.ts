@@ -1,4 +1,5 @@
 // Definiendo una interfaz para un objeto
+//Especifica para definir la estructura de un objeto
 interface Car {
     brand: string;
     year: number;
