@@ -1,4 +1,6 @@
 // Definimos un alias de tipo para un objeto que representa a una persona
+//PAra definir tipos de datos, primitivos o avanzados.
+
 type Person = {
     name: string;
     age: number;
